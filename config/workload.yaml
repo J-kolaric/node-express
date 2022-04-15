@@ -11,4 +11,4 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/J-kolaric/node-express.git
+      url: https://github.com/J-kolaric/node-express
